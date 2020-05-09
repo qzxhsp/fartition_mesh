@@ -1,9 +1,3 @@
 New Dev Branch
 OK
-<<<<<<< Updated upstream
 test
-=======
-test
-不一样的烟火
-很不一样的烟火
->>>>>>> Stashed changes
